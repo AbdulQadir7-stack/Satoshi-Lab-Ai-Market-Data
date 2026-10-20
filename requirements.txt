@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-learn
+ccxt
+streamlit
+plotly
+joblib
+pytest
